@@ -11,5 +11,9 @@ pipeline{
                bat 'echo "Building"'
            }
        }
+       
+    }
+    
+}
                
 
